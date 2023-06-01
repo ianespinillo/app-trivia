@@ -1,0 +1,71 @@
+[
+    {
+        "categoria": "Señales de prohibición",
+        "pregunta": "¿Cual es el nombre de la señal?",
+        "respuesta": "No Avanzar",
+        "incorrecta1": "Contramano",
+        "incorrecta2": "Doble Carril",
+        "incorrecta3": "Prohibido estacionar",
+        "imagen": "img/NoAvanzar.png",
+        "objectFit": "contain"
+    },
+    {"categoria": "Señales de prohibición",
+    "pregunta": "¿Cual es el nombre de la señal?",
+    "respuesta": "Contramano",
+    "incorrecta1": "No avanzar",
+    "incorrecta2": "No Circular",
+    "incorrecta3": "No Estacionar",
+    "imagen": "img/contramano.png",
+    "objectFit": "contain"    
+    },
+    {
+    "categoria": "Señales de prohibición",
+    "pregunta": "¿Cual es el nombre de la señal?",
+    "respuesta": "No adelantarse",
+    "incorrecta1": "No ruidos molestos",
+    "incorrecta2": "No Circular",
+    "incorrecta3": "No Estacionar",
+    "imagen": "img/NoAdelantarse.png",
+    "objectFit": "contain"    
+    },
+    {
+        "categoria": "Señales de prohibición",
+        "pregunta": "Que indica la señal?",
+        "respuesta": "Escolares",
+        "incorrecta1": "Cruce ciclistas",
+        "incorrecta2": "Niños",
+        "incorrecta3": "Jinetes",
+        "imagen": "img/escolares.jpg",
+        "objectFit": "contain"    
+        },
+    {
+        "categoria": "Señales de prohibición",
+        "pregunta": "Que indica la señal?",
+        "respuesta": "Biscisenda",
+        "incorrecta1": "Escolares",
+        "incorrecta2": "Niños",
+        "incorrecta3": "Jinetes",
+        "imagen": "img/Bicisenda.jpg",
+        "objectFit": "contain"  
+    },
+    {
+        "categoria": "Señales de Maximo Peligro",
+        "pregunta": "Que indica la señal?",
+        "respuesta": "Cruce Ferroviario",
+        "incorrecta1": "Atencion",
+        "incorrecta2": "Curva cerrada",
+        "incorrecta3": "Jinetes",
+        "imagen": "img/Ferrocarril.png",
+        "objectFit": "contain"  
+    },
+    {
+        "categoria": "Señales de Maximo Peligro",
+        "pregunta": "Que indica la señal?",
+        "respuesta": "Cruce de Peatones",
+        "incorrecta1": "Atencion",
+        "incorrecta2": "Curva cerrada",
+        "incorrecta3": "Jinetes",
+        "imagen": "img/crucePeatonal.png",
+        "objectFit": "contain"  
+    }
+]
