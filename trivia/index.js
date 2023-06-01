@@ -55,13 +55,21 @@ function pantallaFinJuego()
   preguntas_hechas++;
   select_id("puntaje").innerHTML = preguntas_correctas + "/" + (preguntas_hechas - 1);
   if (mostrar_pantalla_juego_términado) {
-    swal.fire({
-      title: "Juego finalizado",
-      text:
-        "Puntuación: " + preguntas_correctas + "/" + (preguntas_hechas - 1),
-      icon: "error"
-      
-    });
+    alert (preguntas_correctas);
+    if(preguntas_correctas > 3 ){
+      swal.fire({
+        title: "Juego finalizado",
+        text: "Has superado la prueba, puedes avanzar al simulador",
+        icon: "success"
+      })
+    }
+    else {
+      swal.fire({
+        title: "Juego finalizado",
+        text: "No ha alcanzado el minimo requerido, le faltaron " + (preguntas_hechas - preguntas_correctas_),
+        icon: "error"
+      })
+    }
   }
   if (reiniciar_puntos_al_reiniciar_el_juego) {
     preguntas_correctas = 0;
