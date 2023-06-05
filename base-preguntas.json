@@ -1,7 +1,7 @@
 
 [
 
-{"categoria":"Señales Informativas",
+	{"categoria":"Señales Informativas",
 	"pregunta": "¿Que indica la señal?",
 	"respuesta": "Estacionamiento Permitido",
 	"incorrecta1": "Estacionamiento Prohibido",
@@ -148,13 +148,13 @@
         "incorrecta1": "Cruce Peatones",
         "incorrecta2": "Atencion",
         "incorrecta3": "Cruz San Andrés",
-        "imagen": "img/Señales Preventivas/Maximo Peligro/CurvaCerrada",
+        "imagen": "img/Señales Preventivas/Maximo Peligro/CurvaCerrada.png",
         "objectFit": "contain"},
 
 {"categoria":"Señales preventivas(Advertencias Maximo Peligro)",
         "pregunta": "¿Que indica la Señal",
         "respuesta": "Atencion",
-        "incorrecta1": "Atención",
+        "incorrecta1": "Peatones",
         "incorrecta2": "Curva Cerrada",
         "incorrecta3": "Cruce Peatones",
         "imagen": "img/Señales Preventivas/Maximo Peligro/Atencion.png",
@@ -170,13 +170,13 @@
         "objectFit": "contain"},
 
 
-{"categoria":"Señales de prevención(Riesgo eventual)",
+	{"categoria":"Señales de prevención(Riesgo eventual)",
 	"pregunta": "¿Que indica la señal",
 	"respuesta": "Escolares",
 	"incorrecta1": "Niños",
 	"incorrecta2": "Ciclistas",
 	"incorrecta3": "Jinetes",
-	"imagen": "img/Señales Preventivas/RiesgoEventual/Escolares",
+	"imagen": "img/Señales Preventivas/RiesgoEventual/Escolares.png",
         "objectFit": "contain"},
 
 {"categoria":"Señales de prevención(Riesgo eventual)",
@@ -185,16 +185,7 @@
 	"incorrecta1": "Escolares",
 	"incorrecta2": "Ciclistas",
 	"incorrecta3": "Jinetes",
-	"imagen": "img/Señales Preventivas/RiesgoEventual/Niños",
-        "objectFit": "contain"},
-
-{"categoria":"Señales de prevención(Riesgo eventual)",
-	"pregunta": "¿Que indica la señal",
-	"respuesta": "Ciclistas",
-	"incorrecta1": "Jinetes",
-	"incorrecta2": "Animales sueltos(Ciervos)",
-	"incorrecta3": "Animales sueltos(Vacas)",
-	"imagen": "img/Señales Preventivas/RiesgoEventual/Ciclistas",
+	"imagen": "img/Señales Preventivas/RiesgoEventual/Niños.png",
         "objectFit": "contain"},
 
 {"categoria":"Señales de prevención(Riesgo eventual)",
@@ -203,7 +194,7 @@
 	"incorrecta1": "Jinetes",
 	"incorrecta2": "Animales Sueltos(Vacas)",
 	"incorrecta3": "Animales sueltos(Ciervos)",
-	"imagen": "img/Señales Preventivas/RiesgoEventual/Ciclistas",
+	"imagen": "img/Señales Preventivas/RiesgoEventual/Ciclistas.png",
         "objectFit": "contain"},
 
 {"categoria":"Señales de prevención(Riesgo eventual)",
@@ -212,10 +203,8 @@
 	"incorrecta1": "Animales sueltos(Ciervos)",
 	"incorrecta2": "Animales sueltos(Vacas)",
 	"incorrecta3": "Escolare",
-	"imagen":"img/Señales Preventivas/RiesgoEventual/Jinetes",
+	"imagen":"img/Señales Preventivas/RiesgoEventual/Jinetes.png",
     "objectFit": "contain"},
-
-
 
 {"categoria":"Señales de prevención(Riesgo eventual)",
 	"pregunta": "¿Que indica la señal",
@@ -223,7 +212,7 @@
 	"incorrecta1": "Escolares",
 	"incorrecta2": "Animales sueltos(Ciervos)",
 	"incorrecta3": "Niños",
-	"imagen":"img/Señales Preventivas/RiesgoEventual/animalesS1",
+	"imagen":"img/Señales Preventivas/RiesgoEventual/animalesS1.png",
         "objectFit": "contain"},
 
 {"categoria":"Señales de prevención(Riesgo eventual)",
@@ -232,7 +221,7 @@
 	"incorrecta1": "Escolares",
 	"incorrecta2": "Animales sueltos(Vacas)",
 	"incorrecta3": "Niños",
-	"imagen":"img/Señales Preventivas/RiesgoEventual/animalesS2",
+	"imagen":"img/Señales Preventivas/RiesgoEventual/animalesS2.png",
     "objectFit": "contain"},
 
 {"categoria":"Señales de prevención(Advertencias sobre caracteristicas fisicas de la vía)",
@@ -241,7 +230,7 @@
 	"incorrecta1": "Encrucijada de Bifurcacion",
 	"incorrecta2": "Encrucijada de Bifurcacion(Alternativa)",
 	"incorrecta3": "Incorporacion de Transito Lateral",
-	"imagen":"img/Señales Preventivas/RiesgoEventual/AdvFisiDeLaVia/Cruce",
+	"imagen":"img/Señales Preventivas/AdvFisiDeLaVia/Cruce2.png",
     "objectFit": "contain"},
 
 {"categoria":"Señales de prevención(Advertencias sobre caracteristicas fisicas de la vía)",
@@ -250,7 +239,7 @@
 	"incorrecta1": "Encrucijada de Bifurcacion(Alternativa)",
 	"incorrecta2": "Encrucijada(Cruce)",
 	"incorrecta3": "Incorporacion de Transito Lateral",
-	"imagen": "img/Señales Preventivas/AdvFisiDeLaVia/B1",
+	"imagen": "img/Señales Preventivas/AdvFisiDeLaVia/Bifur1.png",
     "objectFit": "contain"},
 
 {"categoria":"Señales de prevención(Advertencias sobre caracteristicas fisicas de la vía)",
@@ -259,7 +248,7 @@
 	"incorrecta1": "Encrucijada de Bifurcacion(Alternativa)",
 	"incorrecta2": "Encrucijada(Cruce)",
 	"incorrecta3": "Incorporacion de Transito Lateral",
-	"imagen": "img/Señales Preventivas/AdvFisiDeLaVia/B2",
+	"imagen": "img/Señales Preventivas/AdvFisiDeLaVia/Bifur2.png",
     "objectFit": "contain"},
 
 {"categoria":"Señales de prevención(Advertencias sobre caracteristicas fisicas de la vía)",
@@ -268,17 +257,8 @@
 	"incorrecta1": "Encrucijada (Empalme)",
 	"incorrecta2": "Encrucijada Bifurcacion",
 	"incorrecta3": "Inicio de Doble Circulacion",
-	"imagen": "img/Señales Preventivas/AdvFisiDeLaVia/Cruce2",
+	"imagen": "img/Señales Preventivas/AdvFisiDeLaVia/Cruce.png",
     "objectFit": "contain"},
-{"categoria":"Señales de prevención(Advertencias sobre caracteristicas fisicas de la vía)",
-	"pregunta": "¿Que indica la señal?",
-	"respuesta": "Incorporacion de Transito Lateral",
-	"incorrecta1": "Inicio Doble Circulacion",
-	"incorrecta2": "Encrucijada (Empalme)",
-	"incorrecta3": "Encrucijada Bifurcacion",
-	"imagen": "img/Señales Preventivas/AdvFisiDeLaVia/Cruce2",
-    "objectFit": "contain"},
-
 
 	{"categoria":"Señales de prevención",
 	"pregunta": "¿Que tipo de curva se indica?",
@@ -286,7 +266,7 @@
 	"incorrecta1": "Curva y contra curva",
 	"incorrecta2": "Curva en S",
 	"incorrecta3": "Curva Sinuosa",
-	"imagen":"img/Señales Preventivas/RiesgoEventual/AdvFisiDeLaVia/CvaC",
+	"imagen":"img/Señales Preventivas/AdvFisiDeLaVia/CvaC.png",
     "objectFit": "contain"},
 	
 {"categoria":"Señales de prevención",
@@ -295,7 +275,7 @@
 	"incorrecta1": "Curva en S",
 	"incorrecta2": "Camino Sinuoso",
 	"incorrecta3": "Curva Comun",
-	"imagen": "img/Señales Preventivas/AdvFisiDeLaVia/CvaCont",
+	"imagen": "img/Señales Preventivas/AdvFisiDeLaVia/CvaContra.png",
     "objectFit": "contain"
 	},
 {"categoria":"Señales de prevención",
@@ -304,25 +284,16 @@
 	"incorrecta1": "Curva y contracurva",
 	"incorrecta2": "Curva Sinuoso",
 	"incorrecta3": "Curva Comun",
-	"imagen": "img/Señales Preventivas/AdvFisiDeLaVia/CvaS",
+	"imagen": "img/Señales Preventivas/AdvFisiDeLaVia/CamS.png",
 	"objectFit": "contain"
 	},
-{"categoria":"Señales de prevención",
-	"pregunta": "¿Que tipo de curva se indica?",
-	"respuesta": "Curva Sinuoso",
-	"incorrecta1": "Curva en S",
-	"incorrecta2": "Curva y contracurva",
-	"incorrecta3": "Curva comun",
-	"imagen": "img/Señales Preventivas/RiesgoEventual/AdvFisiDeLaVia/CamSinuoso",
-    "objectFit": "contain"},
-
 {"categoria":"Señales de prevención",
 	"pregunta": "¿Que indica la señal",
 	"respuesta": "Pendiente descendente",
 	"incorrecta1": "Pendiente ascendente",
 	"incorrecta2": "Estrechimiento en dos manos",
 	"incorrecta3": "Derrumbes",
-	"imagen": "img/Señales Preventivas/AdvFisiDeLaVia/PenDes",
+	"imagen": "img/Señales Preventivas/AdvFisiDeLaVia/PenDes.png",
     "objectFit": "contain"
 	},
 
@@ -332,16 +303,16 @@
 	"incorrecta1": "Pendiente descendente",
 	"incorrecta2": "Derrumbes",
 	"incorrecta3": "Puente angosto",
-	"imagen": "img/Señales Preventivas/AdvFisiDeLaVia/PenAs",
+	"imagen": "img/Señales Preventivas/AdvFisiDeLaVia/PenAs.png",
     "objectFit": "contain"},
 
-{"categoria":"Señales Reglamentarias(De prohibición)",
+	{"categoria":"Señales Reglamentarias(De prohibición)",
 	"pregunta": "¿Que indica la señal",
 	"respuesta": "No Avanzar",
 	"incorrecta1": "No Girar a la Izquierda",
 	"incorrecta2": "No Girar a la Derecha",
 	"incorrecta3": "No girar en U(no retornar)",
-	"imagen": "img/Señales de Prohibicion/No Avanzar",
+	"imagen": "img/Señales de Prohibicion/No Avanzar.png",
     "objectFit": "contain"
 	},
 {"categoria":"Señales Reglamentarias(De prohibición)",
@@ -350,7 +321,7 @@
 	"incorrecta1": "No girar en U(no retornar)",
 	"incorrecta2": "No Avanzar",
 	"incorrecta3": "No girar a la izquierda",
-	"imagen": "img/img/Señales de Prohibicion/No GirarD",
+	"imagen": "img/Señales de Prohibicion/No GirarD.png",
     "objectFit": "contain"},
 
 {"categoria":"Señales Reglamentarias(De prohibición)",
@@ -359,7 +330,7 @@
 	"incorrecta1": "No Girar en U(no retornar)",
 	"incorrecta2": "No Girar a ala Derecha",
 	"incorrecta3": "No Avanzar",
-	"imagen": "img/Señales de Prohibicion/NoGirarIzq",
+	"imagen": "img/Señales de Prohibicion/NoGirarIzq.png",
     "objectFit": "contain"},
 
 {"categoria":"Señales Reglamentarias(De prohibición)",
@@ -368,7 +339,7 @@
 	"incorrecta1": "No Girar a la Derecha",
 	"incorrecta2": "No Avanzar",
 	"incorrecta3": "No Girar a la Izquierda",
-	"imagen": "img/Señales de Prohibicion/NoGirarDer",
+	"imagen": "img/Señales de Prohibicion/NoGirarDer.png",
     "objectFit": "contain"},
 
 {"categoria":"Señales Reglamentarias(De prohibición)",
@@ -377,7 +348,7 @@
 	"incorrecta1": "No estacionar Ni detenerse",
 	"incorrecta2": "Estacionamiento Exclusivo",
 	"incorrecta3": "Contramano",
-	"imagen": "img/Señales de Prohibicion/NoEstacionar",
+	"imagen": "img/Señales de Prohibicion/NoEstacionar.png",
     "objectFit": "contain"},
 
 {"categoria":"Señales Reglamentarias(De prohibición)",
@@ -386,7 +357,7 @@
 	"incorrecta1": "Estacionamiento Exclusivo",
 	"incorrecta2": "No estacionar",
 	"incorrecta3": "Contramano",
-	"imagen": "img/Señales de Prohibicion/NoEstaNiDet",
+	"imagen": "img/Señales de Prohibicion/NoEstaNiDet.png",
     "objectFit": "contain"},
 
 {"categoria":"Señales Reglamentarias(De prohibición)",
@@ -395,7 +366,7 @@
 	"incorrecta1": "Limite de Velocidad Minima",
 	"incorrecta2": "Circulacion Exclusiva",
 	"incorrecta3": "Fin de la Preescripcion",
-	"imagen": "img/Señales de Prohibicion/VelocidadLim",
+	"imagen": "img/Señales de Prohibicion/VelocidadLim.png",
     "objectFit": "contain"},
 
 {"categoria":"Señales Reglamentarias(De prohibición)",
@@ -404,16 +375,17 @@
 	"incorrecta1": "Limite de Velocidad Maxima",
 	"incorrecta2": "Circulacion Exclusiva",
 	"incorrecta3": "Fin de la Preescripcion",
-	"imagen": "img/Señales de Prohibicion/VelocidadMin",
+	"imagen": "img/Señales de Prohibicion/VelocidadMin.png",
     "objectFit": "contain"},
 
-{"categoria":"Señales Reglamentarias",
+
+	{"categoria":"Señales Reglamentarias",
 	"pregunta": "¿Que indica la señal",
 	"respuesta": "Giro obligatorio a Izquierda",
 	"incorrecta1": "Giro obligatorio a Derecha",
 	"incorrecta2": "Sentido de Circulacion Derecha",
 	"incorrecta3": "Sentido de circulacion(Sentido unico)",
-	"imagen": "img/Señales de Prohibicion/GiroObIzq",
+	"imagen": "img/Señales de Prohibicion/GiroObIzq.png",
     "objectFit": "contain"},
 
 {"categoria":"Señales Reglamentarias",
@@ -422,7 +394,7 @@
 	"incorrecta1": "Giro obligatorio a Izquierda",
 	"incorrecta2": "Sentido de Circulacion Izquierda",
 	"incorrecta3": "Sentido de Circulacion(Sentido unico)",
-	"imagen": "img/Señales de Prohibicion/GiroObD",
+	"imagen": "img/Señales de Prohibicion/GiroObDer.png",
         "objectFit": "contain"},
 
 {"categoria":"Señales Reglamentarias",
@@ -431,7 +403,7 @@
 	"incorrecta1": "Sentido de Circulacion Izquierda",
 	"incorrecta2": "Sentido de Circulacion(Sentido unico)",
 	"incorrecta3": "Sentido de Circulacion Derecha",
-	"imagen": "img/Señales de Prohibicion/SentD.pngs",
+	"imagen": "img/Señales de Prohibicion/SentD.png",
     "objectFit": "contain"},
 
 {"categoria":"Señales Reglamentarias",
@@ -440,7 +412,7 @@
 	"incorrecta1": "Sentido de Circulacion Izquierda",
 	"incorrecta2": "Sentido de Circulacion Derecha",
 	"incorrecta3": "Inicio de Doble Mano",
-	"imagen": "img/Señales de Prohibicion/SentUni",
+	"imagen": "img/Señales de Prohibicion/SentUni.png",
     "objectFit": "contain"},
 
 {"categoria":"Señales Reglamentarias",
@@ -449,7 +421,7 @@
 	"incorrecta1": "Paso Obligado Derecha",
 	"incorrecta2": "Sentido de Circulacion Derecha",
 	"incorrecta3": "Sentido de Circulacion Izquierda",
-	"imagen": "img/Señales de Prohibicion POI",
+	"imagen": "img/Señales de Prohibicion/POI.png",
     "objectFit": "contain"},
 
 {"categoria":"Señales Reglamentarias",
@@ -458,6 +430,13 @@
 	"incorrecta1": "Paso Obligado Izquierda",
 	"incorrecta2": "Sentido de Circulacion Derecha",
 	"incorrecta3": "Sentido de Circulacion Izquierda",
-	"imagen": "img/Señales de Prohibicion",
+	"imagen": "img/Señales de Prohibicion/POD.png",
         "objectFit": "contain"}
+
+
 ]
+
+
+
+
+
