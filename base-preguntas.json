@@ -1,31 +1,13 @@
 
 [
 
-	{"categoria":"Señales Informativas",
+{"categoria":"Señales Informativas",
 	"pregunta": "¿Que indica la señal?",
 	"respuesta": "Estacionamiento Permitido",
 	"incorrecta1": "Estacionamiento Prohibido",
 	"incorrecta2": "Estacionamiento Excluviso",
 	"incorrecta3": "No Estacionar ni Detenerse",
 	"imagen": "img/SeñalesInfor/EstPermit.png",
-    "objectFit": "contain"},
-
-{"categoria":"Señales Informativas",
-	"pregunta": "¿Que indica la señal?",
-	"respuesta": "Permitido girar a la Derecha",
-	"incorrecta1": "Permitido girar a la Izquierda",
-	"incorrecta2": "Direccion Permitida Derecha",
-	"incorrecta3": "Direccion Permitida Izquierda",
-	"imagen": "img/SeñalesInfor/PermGDerecha.png",
-    "objectFit": "contain"},
-
-{"categoria":"Señales Informativas",
-	"pregunta": "¿Que indica la señal?",
-	"respuesta": "Permitido girar a la Izquierda",
-	"incorrecta1": "Permitido girar a la Derecha",
-	"incorrecta2": "Direccion Permitida Derecha",
-	"incorrecta3": "Direccion Permitida Izquierda",
-	"imagen": "img/SeñalesInfor/PermGIzquierda.png",
     "objectFit": "contain"},
 
 {"categoria":"Señales Informativas",
@@ -37,14 +19,6 @@
 	"imagen": "img/SeñalesInfor/DirecPermIz.png",
     "objectFit": "contain"},
 
-{"categoria":"Señales Informativas",
-	"pregunta": "¿Que indica la señal?",
-	"respuesta": "Direccion Permitida Derecha",
-	"incorrecta1": "Permitido girar a la Derecha",
-	"incorrecta2": "Permitido girar a la Izquierda",
-	"incorrecta3": "Direccion Permitida Derecha",
-	"imagen": "img/SeñalesInfor/DirecPermD.png",
-    "objectFit": "contain"},
 
 {"categoria":"Señales Informativas",
 	"pregunta": "¿Que indica la señal?",
@@ -52,18 +26,8 @@
 	"incorrecta1": "Direcciones Permitidas(Bifurcacion)",
 	"incorrecta2 ": "Direccion Permitida(igual sentido o Derecha)",
 	"incorrecta3": "Direcciones Permitidas(Ambas Direcciones)",
-	"imagen": "img/SeñalesInfor/DireccionPerIguIzquier.png",
+	"imagen": "img/SeñalesInfor/DireccionPerIguDer.png",
     "objectFit": "contain"},
-
-{"categoria":"Señales Informativas",
-	"pregunta": "¿Que indica la señal?",
-	"respuesta": "Direccion Permitida(igual sentido o Derecha)",
-	"incorrecta1": "Direcciones Permitidas(Bifurcacion)",
-	"incorrecta2": "Direccion Permitida(igual sentido o Izquierda)",
-	"incorrecta3": "Direcciones Permitidas(Ambas Direcciones)",
-    "imagen": "img/SeñalesInfor/DireccionPerIguDer.png",
-    "objectFit": "contain"},
-
 
 {"categoria":"Señales Informativas",
 	"pregunta": "¿Que indica la señal?",
@@ -154,7 +118,7 @@
 {"categoria":"Señales preventivas(Advertencias Maximo Peligro)",
         "pregunta": "¿Que indica la Señal",
         "respuesta": "Atencion",
-        "incorrecta1": "Peatones",
+        "incorrecta1": "Atención",
         "incorrecta2": "Curva Cerrada",
         "incorrecta3": "Cruce Peatones",
         "imagen": "img/Señales Preventivas/Maximo Peligro/Atencion.png",
@@ -170,7 +134,9 @@
         "objectFit": "contain"},
 
 
-	{"categoria":"Señales de prevención(Riesgo eventual)",
+
+
+{"categoria":"Señales de prevención(Riesgo eventual)",
 	"pregunta": "¿Que indica la señal",
 	"respuesta": "Escolares",
 	"incorrecta1": "Niños",
@@ -186,6 +152,16 @@
 	"incorrecta2": "Ciclistas",
 	"incorrecta3": "Jinetes",
 	"imagen": "img/Señales Preventivas/RiesgoEventual/Niños.png",
+        "objectFit": "contain"},
+
+
+{"categoria":"Señales de prevención(Riesgo eventual)",
+	"pregunta": "¿Que indica la señal",
+	"respuesta": "Ciclistas",
+	"incorrecta1": "Jinetes",
+	"incorrecta2": "Animales sueltos(Ciervos)",
+	"incorrecta3": "Animales sueltos(Vacas)",
+	"imagen": "img/Señales Preventivas/RiesgoEventual/Ciclistas.png",
         "objectFit": "contain"},
 
 {"categoria":"Señales de prevención(Riesgo eventual)",
@@ -224,69 +200,18 @@
 	"imagen":"img/Señales Preventivas/RiesgoEventual/animalesS2.png",
     "objectFit": "contain"},
 
-{"categoria":"Señales de prevención(Advertencias sobre caracteristicas fisicas de la vía)",
-	"pregunta": "¿Que indica la señal?",
-	"respuesta": "Encrucijada(Cruce)",
-	"incorrecta1": "Encrucijada de Bifurcacion",
-	"incorrecta2": "Encrucijada de Bifurcacion(Alternativa)",
-	"incorrecta3": "Incorporacion de Transito Lateral",
-	"imagen":"img/Señales Preventivas/AdvFisiDeLaVia/Cruce2.png",
-    "objectFit": "contain"},
 
-{"categoria":"Señales de prevención(Advertencias sobre caracteristicas fisicas de la vía)",
-	"pregunta": "¿Que indica la señal?",
-	"respuesta": "Encrucijada de Bifurcacion",
-	"incorrecta1": "Encrucijada de Bifurcacion(Alternativa)",
-	"incorrecta2": "Encrucijada(Cruce)",
-	"incorrecta3": "Incorporacion de Transito Lateral",
-	"imagen": "img/Señales Preventivas/AdvFisiDeLaVia/Bifur1.png",
-    "objectFit": "contain"},
 
-{"categoria":"Señales de prevención(Advertencias sobre caracteristicas fisicas de la vía)",
-	"pregunta": "¿Que indica la señal?",
-	"respuesta": "Encrucijada de Bifurcacion(Alternativa)",
-	"incorrecta1": "Encrucijada de Bifurcacion(Alternativa)",
-	"incorrecta2": "Encrucijada(Cruce)",
-	"incorrecta3": "Incorporacion de Transito Lateral",
-	"imagen": "img/Señales Preventivas/AdvFisiDeLaVia/Bifur2.png",
-    "objectFit": "contain"},
-
-{"categoria":"Señales de prevención(Advertencias sobre caracteristicas fisicas de la vía)",
-	"pregunta": "¿Que indica la señal?",
-	"respuesta": "Encrucijada(Cruce)",
-	"incorrecta1": "Encrucijada (Empalme)",
-	"incorrecta2": "Encrucijada Bifurcacion",
-	"incorrecta3": "Inicio de Doble Circulacion",
-	"imagen": "img/Señales Preventivas/AdvFisiDeLaVia/Cruce.png",
-    "objectFit": "contain"},
-
-	{"categoria":"Señales de prevención",
-	"pregunta": "¿Que tipo de curva se indica?",
-	"respuesta": "Curva comun",
-	"incorrecta1": "Curva y contra curva",
-	"incorrecta2": "Curva en S",
-	"incorrecta3": "Curva Sinuosa",
-	"imagen":"img/Señales Preventivas/AdvFisiDeLaVia/CvaC.png",
-    "objectFit": "contain"},
-	
-{"categoria":"Señales de prevención",
-	"pregunta": "¿Que tipo de curva se indica?",
-	"respuesta": "Curva y contracurva",
-	"incorrecta1": "Curva en S",
-	"incorrecta2": "Camino Sinuoso",
-	"incorrecta3": "Curva Comun",
-	"imagen": "img/Señales Preventivas/AdvFisiDeLaVia/CvaContra.png",
-    "objectFit": "contain"
-	},
 {"categoria":"Señales de prevención",
 	"pregunta": "¿Que tipo de curva se indica?",
 	"respuesta": "Curva en S",
 	"incorrecta1": "Curva y contracurva",
 	"incorrecta2": "Curva Sinuoso",
 	"incorrecta3": "Curva Comun",
-	"imagen": "img/Señales Preventivas/AdvFisiDeLaVia/CamS.png",
+	"imagen": "img/Señales Preventivas/AdvFisiDeLaVia/CvaS.png",
 	"objectFit": "contain"
 	},
+
 {"categoria":"Señales de prevención",
 	"pregunta": "¿Que indica la señal",
 	"respuesta": "Pendiente descendente",
@@ -306,7 +231,17 @@
 	"imagen": "img/Señales Preventivas/AdvFisiDeLaVia/PenAs.png",
     "objectFit": "contain"},
 
-	{"categoria":"Señales Reglamentarias(De prohibición)",
+
+
+
+
+
+
+
+
+
+
+{"categoria":"Señales Reglamentarias(De prohibición)",
 	"pregunta": "¿Que indica la señal",
 	"respuesta": "No Avanzar",
 	"incorrecta1": "No Girar a la Izquierda",
@@ -378,8 +313,7 @@
 	"imagen": "img/Señales de Prohibicion/VelocidadMin.png",
     "objectFit": "contain"},
 
-
-	{"categoria":"Señales Reglamentarias",
+{"categoria":"Señales Reglamentarias",
 	"pregunta": "¿Que indica la señal",
 	"respuesta": "Giro obligatorio a Izquierda",
 	"incorrecta1": "Giro obligatorio a Derecha",
@@ -422,21 +356,5 @@
 	"incorrecta2": "Sentido de Circulacion Derecha",
 	"incorrecta3": "Sentido de Circulacion Izquierda",
 	"imagen": "img/Señales de Prohibicion/POI.png",
-    "objectFit": "contain"},
-
-{"categoria":"Señales Reglamentarias",
-	"pregunta": "¿Que indica la señal",
-	"respuesta": "Paso Obligado Derecha",
-	"incorrecta1": "Paso Obligado Izquierda",
-	"incorrecta2": "Sentido de Circulacion Derecha",
-	"incorrecta3": "Sentido de Circulacion Izquierda",
-	"imagen": "img/Señales de Prohibicion/POD.png",
-        "objectFit": "contain"}
-
-
+    "objectFit": "contain"}
 ]
-
-
-
-
-
